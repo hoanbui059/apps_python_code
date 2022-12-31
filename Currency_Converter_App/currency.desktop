@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Convert Currency
+Icon=/home/hoanbui/apps_python_code/Currency_Converter_App/currency-icon.png
+Exec=python3 /home/hoanbui/apps_python_code/Currency_Converter_App/currency.py
